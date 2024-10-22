@@ -7,13 +7,14 @@ export default create({
   fontCode: 'monospace',
 
   brandTitle: 'My custom Storybook',
-  brandUrl: 'https://example.com',
-  brandImage: 'https://storybook.js.org/images/placeholders/350x150.png',
+  brandUrl: 'https://www.nbcuniversal.com/',
+  brandImage: 'https://www.nbcuniversal.com/themes/custom/universal/nav_logo_0.png', //350x150 suggested
   brandTarget: '_self',
 
   //
   colorPrimary: '#3a10e5',
   colorSecondary: '#585C6D',
+  nbcPurle:'#400095',
 
   // UI
   appBg: '#ffffff',
