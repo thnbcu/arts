@@ -1,6 +1,7 @@
 # arts
 ARTs
-
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/description/thnbcu/arts_ARTs/)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/thnbcu/arts/ARTs/)
 ## Asset Retention Tracking Service
 
 app src is in ./ARTs or 
