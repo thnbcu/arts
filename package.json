@@ -1,6 +1,8 @@
 {
   "name": "arts",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "thnbcu",
+  "description": "ARTs",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
