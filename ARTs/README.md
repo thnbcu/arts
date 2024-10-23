@@ -1,5 +1,6 @@
 # ARTs
-
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/description/thnbcu/arts_ARTs)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/thnbcu/arts/ARTs)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
 ## Development server
