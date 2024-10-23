@@ -1,6 +1,7 @@
 # ARTs
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/description/thnbcu/arts)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/thnbcu/arts)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/author/thnbcu/arts)
 ![Angular](https://img.shields.io/badge/dynamic/json?color=brightgreen&url=https://raw.githubusercontent.com/thnbcu/arts/master/package-lock.json&query=$.dependencies.angular.version&label=angular&logo=angular)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
